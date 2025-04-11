@@ -4,6 +4,9 @@
 
 ## Изучаемые библиотеки:
 
+- pandas
+- matplotlib
+- numpy
 - spacy
 - sklearn
 - seaborn
